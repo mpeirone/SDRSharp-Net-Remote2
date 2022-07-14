@@ -1,0 +1,13 @@
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.deps.json
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.dll
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.pdb
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.csproj.AssemblyReference.cache
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.NetRemote.ControlPanel.resources
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.csproj.GenerateResource.cache
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.csproj.CoreCompileInputs.cache
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.csproj.CopyComplete
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.dll
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\refint\SDRSharp.Plugin.NetRemote.dll
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\SDRSharp.Plugin.NetRemote.pdb
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\NetRemote\obj\Debug\net6.0-windows\ref\SDRSharp.Plugin.NetRemote.dll

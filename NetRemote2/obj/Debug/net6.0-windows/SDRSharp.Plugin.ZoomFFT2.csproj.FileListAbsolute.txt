@@ -1,0 +1,13 @@
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.csproj.AssemblyReference.cache
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.NetRemote.ControlPanel.resources
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.csproj.GenerateResource.cache
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.csproj.CoreCompileInputs.cache
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.deps.json
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.dll
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.pdb
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.csproj.CopyComplete
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.dll
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\refint\SDRSharp.Plugin.ZoomFFT2.dll
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\SDRSharp.Plugin.ZoomFFT2.pdb
+D:\Windows\Utenti\mpcom2000\Download\sdrsharp-plugin-sdk-vs2022\sdrplugins\ZoomFFT2\obj\Debug\net6.0-windows\ref\SDRSharp.Plugin.ZoomFFT2.dll
