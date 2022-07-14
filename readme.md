@@ -1,8 +1,9 @@
 # SDRSharp Net Remote #
 
-Copyright 2014 - 2015 Al Brown
+Copyright mpeirone 2022
 
-al [at] eartoearoak.com
+
+Thanks to Al Brown (al [at] eartoearoak.com) for the first version(https://github.com/EarToEarOak/SDRSharp-Net-Remote)
 
 
 A network and serial remote control plugin for SDRSharp.
@@ -11,12 +12,12 @@ More details can be found [here](http://eartoearoak.com/software/sdrsharp-net-re
 
 Tested on:
 
-- Windows XP
-- Windows 7
-- Windows 8.1
+- Windows 11
 
 ## Installation ##
-Run the installer and point it to an installation of SDRSharp, this will copy the necessary files and register the plugin.
+Download DLL file from release page and put then into sdrsharp folder \Plugins
+Add MagicRow to Plugins.xml file.
+
 
 ## Testing ##
 Start SDRSharp and check the plugin control panel is shown on the left side of the main window and 'Network' is ticked.
@@ -103,6 +104,9 @@ An *Error* is returned if a problem occurred, e.g.:
 
 ## Physical Controls ##
 You can use this to interface real-world controls such as buttons and rotary encoders to SDR#, a [basic tutorial](http://eartoearoak.com/tutorials-and-examples/sdrsharp-physical-controls) is available.
+
+## Deploy ##
+Download the latest SDR# SDK for Plugin Developers,copy NetRemote2 into this folder, open the solution and add existing project.
 
 ## License ##
 This program is free software: you can redistribute it and/or modify
